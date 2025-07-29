@@ -32,6 +32,18 @@ h1 {
 }
 /* Spacing */
 .space-500 {
-    
+
+
+}
+
+.background {
+    background-color: #D5E1EF;
+}
+.qr-background {
+    background-color: #ffffff;
+    padding: 16px 16px 40px 16px;
+    width: 320px;
+    height:499px;
+    margin:auto;
 
 }
